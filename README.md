@@ -18,9 +18,11 @@
 - [Contact](#contact)
 
 ---
-
 ## About
-This is the **personal website of Muhammed Salim**, built with **Django** for the backend and **React** for interactive frontend components. The site showcases my projects, portfolio, and professional skills in a modern, responsive, and easy-to-navigate interface.
+Hi! This is my **personal website**, built with **Django** for the backend and a touch of **React** for interactive frontend features.  
+It’s a modern, responsive platform to showcase my **portfolio, projects, and skills** as a software developer.  
+
+This project reflects my interest in **clean code, scalable architecture, and seamless UX**. It’s both a portfolio and a playground for experimenting with **modern web technologies**.  
 
 ---
 
