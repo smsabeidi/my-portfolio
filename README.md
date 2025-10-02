@@ -54,4 +54,4 @@ Check the live site here: [https://yourwebsite.com](https://abeidi.app)
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/smsabeidi/my-portfolio.git
-cd yourrepo
+cd my-portfolio
