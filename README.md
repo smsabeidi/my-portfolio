@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/website-online-brightgreen)](https://yourwebsite.com)  
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)  
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)](https://github.com/yourusername/yourrepo/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/smsabeidi/my-portfolio)](https://github.com/yourusername/yourrepo/commits/main)
 
 ---
 
