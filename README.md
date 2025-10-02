@@ -25,7 +25,7 @@ This is the **personal website of Muhammed Salim**, built with **Django** for th
 ---
 
 ## Demo
-Check the live site here: [https://yourwebsite.com](https://yourwebsite.com)
+Check the live site here: [https://yourwebsite.com](https://abeidi.app)
 
 ---
 
